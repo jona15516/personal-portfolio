@@ -55,27 +55,27 @@
 		<div class="item">
 			<a href="https://twiverse.com" target="_blank">Twiverse</a>
 			<h3>Discover diverse Twitter users from different backgrounds</h3>
-			<img src="https://cdn.dribbble.com/users/886569/screenshots/5459050/ezgif.com-optimize__10_.gif">
+			<img src="assets/twiverse.gif">
 		</div>
 		<div class="item">
 			<a href="https://exposure.cards" target="_blank">Exposure Cards</a>
 			<h3>Get more traffic to your content &amp; find underrated websites</h3>
-			<img src="https://cdn.dribbble.com/users/886569/screenshots/5459050/ezgif.com-optimize__10_.gif">
+			<img src="assets/exposure.gif">
 		</div>
 		<div class="item">
 			<a href="https://wonderurl.com" target="_blank">Wonderurl</a>
 			<h3>Wrap a unique digital gift and send it to your friends or customers</h3>
-			<img src="https://cdn.dribbble.com/users/886569/screenshots/5459050/ezgif.com-optimize__10_.gif">
+			<img src="assets/wonder.gif">
 		</div>
 		<div class="item">
 			<a href="https://scaleboot.com" target="_blank">Scaleboot</a>
 			<h3>Service to validate minimum viable products &amp; launch them successfully</h3>
-			<img src="https://cdn.dribbble.com/users/886569/screenshots/5459050/ezgif.com-optimize__10_.gif">
+			<img src="assets/scaleboot.gif">
 		</div>
 		<div class="item">
 			<a href="https://studiosnoon.com/figmaslides" target="_blank">Figma to Slides</a>
 			<h3>Convert Figma frames into a Google Slides presentation</h3>
-			<img src="https://cdn.dribbble.com/users/886569/screenshots/5459050/ezgif.com-optimize__10_.gif">
+			<img src="assets/figmaslides.gif">
 		</div>
 	</div>
 	<div class="section">
@@ -84,17 +84,17 @@
 		<div class="item">
 			<a href="https://exposure.cards/randomhunt" target="_blank">Random Hunt</a>
 			<h3>Discover random products from Product Hunt, on the press of a button</h3>
-			<img src="https://cdn.dribbble.com/users/886569/screenshots/5459050/ezgif.com-optimize__10_.gif">
+			<img src="assets/random.gif">
 		</div>
 		<div class="item">
-			<a href="https://exposure.cards" target="_blank">Google Sheets CMS</a>
+			<a href="https://blog.usejournal.com/how-to-use-google-sheets-as-a-cms-or-a-database-f9d8e736fdce" target="_blank">Google Sheets CMS</a>
 			<h3>Using Google Sheets as a database or a CMS for any purpose</h3>
-			<img src="https://cdn.dribbble.com/users/886569/screenshots/5459050/ezgif.com-optimize__10_.gif">
+			<img src="assets/medium.gif">
 		</div>
 		<div class="item">
-			<a href="https://wonderurl.com" target="_blank">Simple Todo</a>
+			<a href="https://tcodina.com/exp/todo" target="_blank">Simple Todo</a>
 			<h3>Minimal task manager built in ReactJs</h3>
-			<img src="https://cdn.dribbble.com/users/886569/screenshots/5459050/ezgif.com-optimize__10_.gif">
+			<img src="assets/todo.gif">
 		</div>
 	</div>
 	<div id="contact">

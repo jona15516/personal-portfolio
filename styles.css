@@ -14,6 +14,10 @@
 	font-family: 'Ilisarniq Light';
 	src: url(assets/Ilisarniq-Light.woff);
 }
+@font-face {
+	font-family: 'Ilisarniq Regular';
+	src: url(assets/Ilisarniq-Regular.woff);
+}
 body {
 	margin: 0;
 	background-color: #000;
@@ -183,7 +187,7 @@ hr {
 	display: block;
 	margin-left: -30px;
 	z-index: -999;
-	opacity: .2;
+	opacity: .3;
 	margin-top: -80px;
 }
 .ishover {

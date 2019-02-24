@@ -12,7 +12,7 @@ $(document).ready(function(){
 	  var offset = $(this).offset().top-$(":first-child", $(".item")).offset().top;
 	  // Calculate the new position
 	  var movex = (e.pageX * -1.73 / 6);
-	  var movey = ((e.pageY-offset) * -1.73 / 6)+($(this).parent().find("img").height()/2)-35;
+	  var movey = ((e.pageY-offset) * -1.73 / 6)+($(this).parent().find("img").height());
 	  // Apply the margins
 	  $(this).parent().find("img").css('margin-left', movex + 'px')/2;
 	  $(this).parent().find("img").css('margin-top', movey + 'px');
